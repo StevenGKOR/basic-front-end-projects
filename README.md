@@ -4,7 +4,7 @@ Depending on the project you will see, it can have simple DOM commands up to ES6
 
 All the projects are made with vanilla Javascript without any other library or framework, also the same applies to the css, except for one where I have used the momentjs library for the date format
 
-1) Color Flipper : A application where a user in simple page by clicking the "click me" button will change the background color betwwen 6 colors, but if he moved to the hex page (to right) will generate a random color each time he clicks
+1) Color Flipper : A application where a user in simple page by clicking the "click me" button will change the background color betwwen 6 colors, but if he moved to the hex page (top right) will generate a random color each time he clicks
 
 URL : https://color-flipper-vanillajs-project.netlify.app/
 
