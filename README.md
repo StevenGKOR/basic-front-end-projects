@@ -10,7 +10,7 @@ A client-side application where a user can search for different products, there 
 
 URL : https://comfy-shop-vanillajs.netlify.app/products.html
 
-2) Grocery Bud : Grocery Bud is a todo application that a user can delete existing tasks, create tasks and also change the tasks, during the difference messages of important content will appear on the screen to inform the user about his actions
+2) Grocery Bud : Grocery Bud is a todo application that a user can delete existing tasks, create tasks and also change the tasks, while the user is changing different messages of important content will appear on the screen to inform the user about his actions
 
 URL : https://grocery-todo-app-vanillajs.netlify.app/
 
