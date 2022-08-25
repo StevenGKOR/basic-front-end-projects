@@ -1,95 +1,97 @@
-This is not a typical project as usual, but a set of small projects on Vanilla Javascript, HTML, CSS
+This is not a standard project as usual, but a set of small projects in Javascript Vanilla, HTML, CSS
 
-Depending on the project you will see, it can have simple DOM commands up to ES6 syntax, asynchronous, OPP and API fetching
+Depending on the project you see, it can have simple DOM commands up to ES6 syntax, asynchronous, OPP and API fetching
 
-All the projects are made with vanilla Javascript without any other library or framework, also the same applies to the css, except for one where I have used the momentjs library for the date format
+All projects are made with vanilla Javascript without any other library or framework, also the same goes for css, except one where I have used the momentjs library for the date format
 
-1) Color Flipper : A application where a user in simple page by clicking the "click me" button will change the background color betwwen 6 colors, but if he moved to the hex page (top right) will generate a random color each time he clicks
+1) Color Flipper : An application where the user can by clicking on the "click me" button change the background color between 6 colors, but if they scroll through the hex page (top right) it will generate a random color every time they click
 
-URL : https://color-flipper-vanillajs-project.netlify.app/
+URL: https://color-flipper-vanillajs-project.netlify.app/
 
-2) Comfy Store: A client-side application where a user can search for different products, there are also some buttons where he can see products according to the company and a bar where he can choose the price, he can add to the cart which product he wants and increase the quantity
+2) Comfy Store: A client side application where the user can search for different products, there are also some buttons where he can see the products according to the company and a bar where he can choose the price, he can add to the cart any product he wants and increase the quantity
 
-URL : https://comfy-shop-vanillajs.netlify.app/index.html
+URL: https://comfy-shop-vanillajs.netlify.app/index.html
 
-3) Grocery Bud : Grocery Bud is a todo application that a user can delete existing tasks, create tasks and also change the tasks, while the user is changing different messages of important content will appear on the screen to inform the user about his actions
+3) Grocery Bud : Grocery Bud is a todo application that the user can delete existing tasks, create tasks and also change the tasks, while the user changes various messages of important content will be displayed on the screen to inform the user about his actions
 
-URL : https://grocery-todo-app-vanillajs.netlify.app/
+URL: https://grocery-todo-app-vanillajs.netlify.app/
 
 4) WikipediaAPI : 
-in this project a user can search for it at any time and there will be some results, by clicking he will be taken to the corresponding wikipedia page
+In this program a user can search at any time and there will be some results, by clicking them he will be taken to the corresponding wikipedia page
 
-URL : https://wikipediaapi-vanilajs.netlify.app/
+URL: https://wikipediaapi-vanilajs.netlify.app/
 
-5) Menu : It is a project that presents the menu of a supposed restaurant and the creator can choose what type of meal he wants to see, also he can read different information about each meal
+5) Menu : It is a project that shows the menu of a supposed restaurant and the creator can choose what kind of meal he wants to see, also he can read various information about each meal
 
-URL : https://menu-res-vanillajs.netlify.app/
+URL: https://menu-res-vanillajs.netlify.app/
 
-6) Pagination : A typical view of Github users, by clicking the button you will redirected to user's profile
+6) Pagination : A typical view of Github users, clicking on the button will take you to the user's profile
 
-URL : https://pagination-vanillajs.netlify.app/
+URL: https://pagination-vanillajs.netlify.app/
 
-7) Slider : It's a typical slider when someone can read reviews from users
+7) Slider : It is a typical slider when one can read reviews from users
 
-URL : https://slider-vanillajs-project.netlify.app/
+URL: https://slider-vanillajs-project.netlify.app/
 
-8) CocktailsDB : It's an application where a user can search for cocktails and by clicking with view informations about the specific cocktail
+8) CocktailsDB : It is an application where a user can search for cocktails and by clicking by viewing information about that cocktail
 
-URL : https://cocktaildb-vanillajs.netlify.app/
+URL: https://cocktaildb-vanillajs.netlify.app/
 
-9) Random User : A application where a user can read informations about people by clicking the buttons with the specific info, also by clicking random user button a other perdon will render
+9) Random User : An application where a user can read information about people by clicking on buttons with specific information, also by clicking on random user button another perdon will appear
 
-URL : https://random-user-vanillajs.netlify.app/
+URL: https://random-user-vanillajs.netlify.app/
 
-10) Products : Here the user can see the products and by clicking they will get more information about the specific product
+10) Products : Here a user can view the products and by clicking will get more information about the specific product.
 
-URL : https://products-vanillajs.netlify.app/
+URL: https://products-vanillajs.netlify.app/
 
-11) Dad jokes : A user can read different "cold" jokes, by clicking will render a different joke
+11) Dad's Jokes : User can read various "cold" jokes, by clicking it will show a different joke
 
-URL : https://dads-jokes-vanillajs.netlify.app/
+URL: https://dads-jokes-vanillajs.netlify.app/
 
-12) Filter : It is a project where a user can see products by searching or by clicking for a specific company
+12) Filter : It is a project where the user can see products by searching or clicking on a specific company
 
-URL : https://filter-vanillajs.netlify.app/
+URL: https://filter-vanillajs.netlify.app/
 
-13) Dark Mode : Simple, a user change the view to dark mode by click the toggle button
+13) Dark Mode : Simple, a user changes the view to dark mode by clicking the toggle button
 
-URL : https://darkmode-vanillajs.netlify.app/
+URL: https://darkmode-vanillajs.netlify.app/
 
-14) Number : A rather simple application where someone can see information about a company with a cool way
+14) Number : A rather simple application where one can see information about a company in a nice way
 
-URL : https://numbers-vanillajs.netlify.app/
+URL: https://numbers-vanillajs.netlify.app/
 
-15) Gallery (OOP) : It is a project where a user will see images in a slider, depending on the section he chooses will have a different slider
+15) Gallery (OOP) : It is a project where a user will see images in a slider, depending on the section he chooses it will have a different slider
 
-URL : https://gallery-oop-vanillajs.netlify.app/
+URL: https://gallery-oop-vanillajs.netlify.app/
 
-16) Counter (OOP) : There are 2 counter where a user can change the value by clicking the 6 available buttons
+16) Counter (OOP) : There are 2 counters where the user can change the value by clicking on the 6 available buttons
 
-URL : https://counter-opp-project.netlify.app/
+URL: https://counter-opp-project.netlify.app/
 
-17) Lorem : Here a user can generate 1-8 paragraphs by typing the length or by clicking the buttons
+17) Lorem : Here user can create 1-8 paragraphs by typing the length or by clicking on the buttons
 
-URL : https://lerom-vanillajs.netlify.app/
+URL: https://lerom-vanillajs.netlify.app/
 
-18) Countdown : Just a typical countdown for a giveway,here what matters for me is the code
+18) Countdown : Just a typical countdown for a gift, here what matters to me is the code
 
-URL : https://countdowntime-vanillajs.netlify.app/
+URL: https://countdowntime-vanillajs.netlify.app/
 
-19) Tabs : A simple about page for a company 
+19) Tabs : A simple page for a company. 
 
-URL : https://tabs-vanillajs.netlify.app/
+URL: https://tabs-vanillajs.netlify.app/
 
-20) Video : A user in the application can pause/resume a video to the background
+20) Videos : A user in the app can pause/resume a video in the background
 
-URL : https://video-vanillajs.netlify.app/
+URL: https://video-vanillajs.netlify.app/
 
-21) Questions : Someone by clicking the "+" will open a section, can read answers or informations and by clicking "-" will close the section
+21) Questions : One by clicking on "+" will open a section, can read answers or information and by clicking on "-" will close the section
 
-URL : https://questions-vanillajs-project.netlify.app/
+URL: https://questions-vanillajs-project.netlify.app/
 
-22) Modal : Very simple, by clicking will pop up a modal and by clicking the "x" will close the modal
+22) Modal : Very simple, clicking will bring up a modal and clicking "x" will close the modal
+
+Translated with www.DeepL.com/Translator (free version)
 
 URL : https://modal-vanillajs-project.netlify.app/
 
