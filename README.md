@@ -4,15 +4,14 @@ Depending on the project you see, it can have simple DOM commands up to ES6 synt
 
 All projects are made with vanilla Javascript without any other library or framework, also the same goes for css, except one where I have used the momentjs library for the date format
 
-1) Color Flipper : An application where the user can by clicking on the "click me" button change the background color between 6 colors, but if they scroll through the hex page (top right) it will generate a random color every time they click. #URL: https://color-flipper-vanillajs-project.netlify.app/
+1) Color Flipper : An application where the user can by clicking on the "click me" button change the background color between 6 colors, but if they scroll through the hex page (top right) it will generate a random color every time they click. URL: https://color-flipper-vanillajs-project.netlify.app/
 
 2) Comfy Store: A client side application where the user can search for different products, there are also some buttons where he can see the products according to the company and a bar where he can choose the price, he can add to the cart any product he wants and increase the quantity. 
 URL: https://comfy-shop-vanillajs.netlify.app/index.html
 
 3) Grocery Bud : Grocery Bud is a todo application that the user can delete existing tasks, create tasks and also change the tasks, while the user changes various messages of important content will be displayed on the screen to inform the user about his actions. URL: https://grocery-todo-app-vanillajs.netlify.app/
 
-4) WikipediaAPI : 
-In this program a user can search at any time and there will be some results, by clicking them he will be taken to the corresponding wikipedia page
+4) WikipediaAPI : In this program a user can search at any time and there will be some results, by clicking them he will be taken to the corresponding wikipedia page.
 URL: https://wikipediaapi-vanilajs.netlify.app/
 
 5) Menu : It is a project that shows the menu of a supposed restaurant and the creator can choose what kind of meal he wants to see, also he can read various information about each meal. URL: https://menu-res-vanillajs.netlify.app/
