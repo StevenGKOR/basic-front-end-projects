@@ -4,7 +4,7 @@ Depending on the project you see, it can have simple DOM commands up to ES6 synt
 
 All projects are made with vanilla Javascript without any other library or framework, also the same goes for css, except one where I have used the momentjs library for the date format
 
-1) Color Flipper : An application where the user can by clicking on the "click me" button change the background color between 6 colors, but if they scroll through the hex page (top right) it will generate a random color every time they click. URL: https://color-flipper-vanillajs-project.netlify.app/
+1) Color Flipper : An application where the user can by clicking on the "click me" button change the background color between 6 colors, but if they scroll through the hex page (top right) it will generate a random color every time they click. #URL: https://color-flipper-vanillajs-project.netlify.app/
 
 2) Comfy Store: A client side application where the user can search for different products, there are also some buttons where he can see the products according to the company and a bar where he can choose the price, he can add to the cart any product he wants and increase the quantity. 
 URL: https://comfy-shop-vanillajs.netlify.app/index.html
